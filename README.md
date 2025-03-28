@@ -25,11 +25,11 @@
 
 
 ---
-
+```
 ## 📫 How to reach me
 - ✉️ Email: `R E D A C T E D`
 - 🌐 Portfolio (in build): `R E D A C T E D`
 
 ---
-
-*Always learning, always building 🔥*
+```
+*Top 15 promo 🔥*
