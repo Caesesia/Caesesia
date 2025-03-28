@@ -1,9 +1,8 @@
 # 👋 Hello, I'm Caesesia
 
-🎓 **2nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**  
-🐧 Passionate about **Linux infrastructure**, **Docker**, **DevOps**, **Pentesting** and **Blue Team**  
-🔒 Constantly improving my skills in **Cybersecurity, system administration and scripting**  
-🚀 Always open to collaborating on new projects and learning new technologies  
+🎓 **2nd-year Networks & Telecommunications student** with a focus on **Cybersecurity**
+🐧 Passionate about **Linux infrastructure**, **Docker**, **DevOps**, **Pentesting** and **Blue Team**
+🔒 Constantly improving my skills in **Cybersecurity, system administration and scripting**
 
 ---
 
@@ -25,11 +24,11 @@
 
 
 ---
-```
+<--!
 ## 📫 How to reach me
 - ✉️ Email: `R E D A C T E D`
 - 🌐 Portfolio (in build): `R E D A C T E D`
 
 ---
-```
+-->
 *Top 15 promo 🔥*
