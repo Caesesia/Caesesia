@@ -14,6 +14,8 @@ What I’m into:
 
 I’m always looking to improve my skills and knowledge, especially in areas like **threat hunting**, **network security**, and **security operations**. I’m passionate about the open-source community, especially **Linux**, and work to ensure **user privacy** in all aspects of security.
 
+🌱 I’m constantly exploring new tools, techniques, and best practices, and I’m always up for discussing defensive security or participating in new challenges!
+
 ---
 
 ## 🔧 Technologies & Tools
@@ -43,7 +45,5 @@ I’d love to learn from others and share knowledge!
 
 ---
 -->
-
-🌱 I’m constantly exploring new tools, techniques, and best practices, and I’m always up for discussing defensive security or participating in new challenges!
 
 *Top 15 promo 🔥*
