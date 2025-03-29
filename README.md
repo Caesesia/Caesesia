@@ -1,18 +1,18 @@
 # 👋 Yo, I'm Caesesia
 
-🎓 I'm a **Cybersecurity enthusiast** with a passion for **Blue Team** security—focusing on **network defense**, **system administration**, and **securing systems**. While I enjoy participating in **CTFs** and solving **web security** and **forensics challenges**, I’m much more interested in the defensive side of security.
+🎓 I'm a **Cybersecurity enthusiast** with a passion for **Blue Team** security. While I enjoy participating in **CTFs** and solving **web security** and **forensics challenges**, I’m much more interested in the defensive side of security.
 
-🐧 I’m currently studying **Networking** with a **Cybersecurity option**, which includes a focus on **network protocols**, **system administration**, and **securing networks and systems**. My goal is to work in **security operations**, **incident response**, or **network defense**—areas where I can protect and secure systems from malicious threats.
+🐧 I’m currently studying **Networking** and **Cybersecurity**, which include a focus on **network protocols**, **system administration**, and **securing networks and systems**.
 
 What I’m into:
-- 🛡️ **Blue Team Security** (network defense, incident response, SIEM, system hardening)
+- 🛡️ **Blue Team Security** (network defense, incident response, system hardening)
 - 💻 **System Administration** (managing and securing networks and systems)
 - 🔍 **Forensics** (data recovery, analysis, and reverse engineering)
 - 🎮 **CTFs** (mainly web and forensics challenges)
 - 🐍 **Scripting (Python)**, with a growing interest in **DevOps** and **DevSecOps**
-- 🐧 **Open-source** (especially Linux) and **user privacy**
+- 🐧 **Open-source** (notably Linux) and **user privacy**
 
-I’m always looking to improve my skills and knowledge, especially in areas like **threat hunting**, **network security**, and **security operations**. I’m passionate about the open-source community, especially **Linux**, and work to ensure **user privacy** in all aspects of security.
+I’m always looking to improve my skills and knowledge, especially in areas like **scripting**, **network security** and **pentesting**. I’m passionate about the open-source community, especially **Linux**, and work to ensure **user privacy** in all aspects of security.
 
 🌱 I’m constantly exploring new tools, techniques, and best practices, and I’m always up for discussing defensive security or participating in new challenges!
 
