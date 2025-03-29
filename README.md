@@ -1,7 +1,8 @@
 # 👋 Yo, I'm Caesesia
 
-🎓 I'm a **Cybersecurity enthusiast** with a passion for **Blue Team** security—focusing on **network defense**, **system administration**, and **securing systems**. While I enjoy participating in **CTFs** and solving **web security** and **forensics challenges**, I’m much more interested in the defensive side of security.  
-🐧 I’m currently studying **Networking** with a **Cybersecurity option**, which includes a focus on **network protocols**, **system administration**, and **securing networks and systems**. My goal is to work in **security operations**, **incident response**, or **network defense**—areas where I can protect and secure systems from malicious threats.  
+🎓 I'm a **Cybersecurity enthusiast** with a passion for **Blue Team** security—focusing on **network defense**, **system administration**, and **securing systems**. While I enjoy participating in **CTFs** and solving **web security** and **forensics challenges**, I’m much more interested in the defensive side of security.
+
+🐧 I’m currently studying **Networking** with a **Cybersecurity option**, which includes a focus on **network protocols**, **system administration**, and **securing networks and systems**. My goal is to work in **security operations**, **incident response**, or **network defense**—areas where I can protect and secure systems from malicious threats.
 
 What I’m into:
 - 🛡️ **Blue Team Security** (network defense, incident response, SIEM, system hardening)
