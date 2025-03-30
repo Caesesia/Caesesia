@@ -1,18 +1,18 @@
-# 👋 Yo, I'm Caesesia
+# 👋 Yo, name's Caesesia
 
-🎓 I'm a **Cybersecurity enthusiast** with a passion for **Blue Team** security. While I enjoy participating in **CTFs** and solving **web security** and **forensics challenges**, I’m much more interested in the defensive side of security.
+🎓 I'm a **Cybersecurity enthusiast** with an interest in **Blue Team** security. I enjoy participating in **CTFs** and solving **web security** and **forensics challenges** mainly, but I’m much more interested in the defensive side of security.
 
-🐧 I’m currently studying **Networking** and **Cybersecurity**, which include a focus on **network protocols**, **system administration**, and **securing networks and systems**.
+🐧 Currently studying **Networking** and **Cybersecurity**, with a focus on **network protocols**, **system administration**, and **securing networks and systems**.
 
-What I’m into:
+A few things I’m into:
 - 🛡️ **Blue Team Security** (network defense, incident response, system hardening)
 - 💻 **System Administration** (managing and securing networks and systems)
 - 🔍 **Forensics** (data recovery, analysis, and reverse engineering)
-- 🎮 **CTFs** (mainly web and forensics challenges)
+- 🎮 **CTFs and pentesting** (mainly web, forensics and network challenges)
 - 🐍 **Scripting (Python, Shell)**, with a growing interest in **DevOps** and **DevSecOps**
 - 🐧 **Open-source** (notably Linux) and **user privacy**
 
-I’m always looking to improve my skills and knowledge, especially in areas like **scripting**, **network security** and **pentesting**. I’m passionate about the open-source community, especially **Linux**, and work to ensure **user privacy** in all aspects of security.
+I’m always looking to improve my skills and knowledge, especially in areas like **scripting**, **network security** and **pentesting**. I’m passionate about the open-source community, especially the **Linux** project, and am committed to **user privacy** in all aspects of security.
 
 ---
 
