@@ -31,15 +31,9 @@ I’m always looking to improve my skills and knowledge, especially in areas lik
 ## 📈 GitHub Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=vision-friendly-dark)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=discord&layout=compact&theme=vision-friendly-dark)
+
  ![GitHub Streak](https://streak-stats.demolab.com?user=caesesia&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/gist/?username=caesesia&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/index/?username=caesesia&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=caesesia&layout=compact&theme=vision-friendly-dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime/?username=caesesia&layout=compact&theme=vision-friendly-dark)
 
 ---
 <!--
