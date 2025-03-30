@@ -36,15 +36,13 @@ I'm always looking to enhance my **skills** and **knowledge**, particularly in *
 
 # <p align="center">~/$ ./stats.sh</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=vision-friendly-dark"/>
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=vision-friendly-dark"/></p>
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=discord&layout=compact&theme=vision-friendly-dark"/>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=discord&layout=compact&theme=vision-friendly-dark"/></p>
   <br>
   <br>
-  <img src="https://streak-stats.demolab.com?user=caesesia&theme=vision-friendly-dark"/>
-</p>
+  <p align="right"><img src="https://streak-stats.demolab.com?user=caesesia&theme=vision-friendly-dark"/></p>
 
 
 ---
