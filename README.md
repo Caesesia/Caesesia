@@ -8,7 +8,7 @@
 
 ### **A few things I’m into:**
 
-- ⛊ **Blue Team Security** (network defense, incident response, system hardening)
+- 🛡️ **Blue Team Security** (network defense, incident response, system hardening)
 - 💻 **System Administration** (managing and securing networks and systems)
 - 🔍 **Forensics** (data recovery, analysis, and reverse engineering)
 - 🎮 **CTFs & Pentesting** (mainly web, forensics, and network challenges)
