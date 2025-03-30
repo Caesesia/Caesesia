@@ -1,4 +1,4 @@
-# 👋 Yo, name's Caesesia
+# 👋 Hey, buddy
 
 🎓 I'm a **Cybersecurity enthusiast** with an interest in **Blue Team** security. I enjoy participating in **CTFs** and solving **web security** and **forensics challenges** mainly, but I’m much more interested in the defensive side of security.
 
@@ -21,6 +21,7 @@ I’m always looking to improve my skills and knowledge, especially in areas lik
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -39,9 +40,7 @@ I’m always looking to improve my skills and knowledge, especially in areas lik
 - ✉️ Email: `R E D A C T E D`
 - 🌐 Portfolio (in build): `R E D A C T E D`
 
-I’d love to learn from others and share knowledge!
-
 ---
 -->
 
-## *Top 15 promo 🔥*
+## *Stay cool, buddy*
