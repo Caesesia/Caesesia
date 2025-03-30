@@ -12,7 +12,7 @@ A few things I’m into:
 - 🐍 **Scripting (Python, Shell)**, with a growing interest in **DevOps** and **DevSecOps**
 - 🐧 **Open-source** (notably Linux) and **user privacy**
 
-I’m always looking to improve my skills and knowledge, especially in areas like **scripting**, **network security** and **pentesting**. I’m passionate about the open-source community, especially the **Linux** project, and am committed to **user privacy** in all aspects of security.
+I’m always looking to improve my skills and knowledge, especially in areas like **scripting**, **network security** and **pentesting**. I’m passionate about the open-source community, especially the **Linux** project, and am committed to **privacy** in all aspects of security.
 
 ---
 
