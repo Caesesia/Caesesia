@@ -29,7 +29,7 @@ I’m always looking to improve my skills and knowledge, especially in areas lik
 ---
 
 ## 📈 GitHub Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=vision-friendly-dark)
 
  ![GitHub Streak](https://streak-stats.demolab.com?user=caesesia&theme=radical)
 
