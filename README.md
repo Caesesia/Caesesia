@@ -1,3 +1,5 @@
+⫘⫘⫘⫘⫘⫘⋆༺𓆩⚔𓆪༻⋆⫘⫘⫘⫘⫘⫘
+
 # 👋 Hey, buddy
 
 🎓 I'm a **Cybersecurity enthusiast** with an interest in **Blue Team** security. I enjoy participating in **CTFs** and solving **web security** and **forensics challenges** mainly, but I’m much more interested in the defensive side of security.
