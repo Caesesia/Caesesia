@@ -43,4 +43,4 @@ I’m always looking to improve my skills and knowledge, especially in areas lik
 ---
 -->
 
-## *Stay cool, buddy*
+*Stay cool, buddy*
