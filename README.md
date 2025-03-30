@@ -2,19 +2,21 @@
 
 # <p align="center">~/$ whoami</p>
 
-🎓 I'm a **Cybersecurity enthusiast** with an interest in **Blue Team** security. I enjoy participating in **CTFs** and solving **web security** and **forensics challenges** mainly, but I’m much more interested in the defensive side of security.
+🎓 I'm a **Cybersecurity enthusiast** with a strong interest in **Blue Team Security**. I enjoy participating in **CTFs**, solving **web security** and **forensics challenges**, but my primary focus is on **defensive security**.
 
-🐧 Currently studying **Networking** and **Cybersecurity**, with a focus on **network protocols**, **system administration**, and **securing networks and systems**.
+🐧 Currently studying **Networking** and **Cybersecurity**, specializing in **network protocols**, **system administration**, and **hardening systems**.
 
-A few things I’m into:
+### **A few things I’m into:**
+
 - ⛊ **Blue Team Security** (network defense, incident response, system hardening)
 - 💻 **System Administration** (managing and securing networks and systems)
 - 🔍 **Forensics** (data recovery, analysis, and reverse engineering)
-- 🎮 **CTFs and pentesting** (mainly web, forensics and network challenges)
-- 🐍 **Scripting (Python, Shell)**, with a growing interest in **DevOps** and **DevSecOps**
+- 🎮 **CTFs & Pentesting** (mainly web, forensics, and network challenges)
+- 🐍 **Scripting && Automation (Python, Shell)**, with a growing interest in **DevOps & DevSecOps**
 - 🐧 **Open-source** (notably Linux) and **user privacy**
 
-I’m always looking to improve my skills and knowledge, especially in areas like **scripting**, **network security** and **pentesting**. I’m passionate about the open-source community, especially the **Linux** project, and am committed to **privacy** in all aspects of security.
+I'm always looking to enhance my **skills** and **knowledge**, particularly in **network security**, **scripting**, and **pentesting**. Passionate about **Linux** and **privacy**, I advocate for **open-source security solutions**.
+
 
 ---
 # <p align="center">~/$ ls tools/</p>
@@ -48,8 +50,8 @@ I’m always looking to improve my skills and knowledge, especially in areas lik
 ---
 <!--
 ## 📫 If you’re into **defensive security**, **network administration**, **DevOps**, **open-source**, or **privacy**, feel free to connect :
-- ✉️ Email: `R E D A C T E D`
-- 🌐 Portfolio (in build): `R E D A C T E D`
+- ✉️ Email: `REDACTED`
+- 🌐 Portfolio (in build): `REDACTED`
 
 ---
 -->
