@@ -1,4 +1,4 @@
-# <p align="center">⫘⫘⫘⫘⫘⫘⋆༺𓆩⚔𓆪༻⋆⫘⫘⫘⫘⫘⫘</p>
+# <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⋆༺𓆩⚔𓆪༻⋆⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘</p>
 
 # <p align="center">~/$ whoami</p>
 
@@ -12,7 +12,7 @@
 - 💻 **System Administration** (managing and securing networks and systems)
 - 🔍 **Forensics** (data recovery, analysis, and reverse engineering)
 - 🎮 **CTFs & Pentesting** (mainly web, forensics, and network challenges)
-- 🐍 **Scripting && Automation (Python, Shell)**, with a growing interest in **DevOps & DevSecOps**
+- 🐍 **Scripting & Automation (Python, Shell)**, with a growing interest in **DevOps & DevSecOps**
 - 🐧 **Open-source** (notably Linux) and **user privacy**
 
 I'm always looking to enhance my **skills** and **knowledge**, particularly in **network security**, **scripting**, and **pentesting**. Passionate about **Linux** and **privacy**, I advocate for **open-source security solutions**.
