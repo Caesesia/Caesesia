@@ -39,7 +39,7 @@ I'm always looking to enhance my **skills** and **knowledge**, particularly in *
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=vision-friendly-dark"/></p>
   <br>
   <br>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=write-ups&layout=compact&theme=vision-friendly-dark"/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=discord&layout=compact&theme=vision-friendly-dark"/></p>
   <br>
   <br>
   <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caesesia&theme=vision-friendly-dark"/></p>
