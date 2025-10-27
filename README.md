@@ -25,7 +25,9 @@ I'm always looking to enhance my **skills** and **knowledge**, particularly in *
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-FFC87C?style=for-the-badge&logo=gnubash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
@@ -38,7 +40,7 @@ I'm always looking to enhance my **skills** and **knowledge**, particularly in *
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesesia&layout=compact&theme=vision-friendly-dark"/></p>
   <br>
   <br>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=jogos&layout=compact&theme=vision-friendly-dark"/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=caesesia&repo=rooter&layout=compact&theme=vision-friendly-dark"/></p>
   <br>
   <br>
   <p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caesesia&theme=vision-friendly-dark"/></p>
