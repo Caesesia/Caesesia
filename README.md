@@ -28,8 +28,6 @@ I'm always looking to enhance my **skills** and **knowledge**, particularly in *
   <img src="https://img.shields.io/badge/Bash-FFC87C?style=for-the-badge&logo=gnubash&logoColor=black"/>
   <img src="https://img.shields.io/badge/Terraform-800080?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 
