@@ -2,20 +2,20 @@
 
 # <p align="center">~/$ whoami</p>
 
-🎓 I'm a **Cybersecurity enthusiast** with a strong interest in **Blue Team Security**. I enjoy participating in **CTFs**, solving **reverse engineering** and **forensics challenges**, but my primary focus is on **defensive security**.
+🎓 I'm a **Cybersecurity enthusiast** with a strong interest in **Purple Team Security**. I enjoy participating in CTFs, solving **pwn**, **reverse engineering** and **forensics** challenges, making me interested in the **Purple Team philosophy** - bridging the human and technical gap between **Red and Blue Teams**.
 
 🐧 Currently studying **Networking** and **System Administration**, specializing in **cybersecurity**, and **automation**.
 
 ### **A few things I’m into:**
 
-- 🛡️ **Blue Team Security** (network defense, incident response, system hardening)
-- 💻 **System Administration** (managing and securing networks and systems)
+- 🛡️ **Blue Team Security** (post-mortem analysis, incident response, system hardening)
+- 💻 **System Administration** (managing and securing Linux systems, hardening configurations, managing infrastructure)
 - 🔍 **Forensics** (data recovery, analysis, and reverse engineering)
-- 🎮 **CTFs & Pentesting** (mainly web, forensics, and network challenges)
+- 🎮 **CTFs & Pentesting** (mainly pwn, forensics, and reverse engineering challenges)
 - 🐍 **Scripting & Automation (Python, Shell, Terraform, Ansible)**, with a growing interest in **DevOps & DevSecOps**
 - 🐧 **Open-source** (notably Linux) and **user privacy**
 
-I'm always looking to enhance my **skills** and **knowledge**, particularly in **network security**, **scripting**, and **pentesting**. Passionate about **Linux** and **privacy**, I advocate for **open-source security solutions**.
+I'm always looking to enhance my **skills** and **knowledge**, particularly in **system security**, **scripting**, and **pentesting**. Passionate about **Linux** and **privacy**, I advocate for **open-source security solutions**.
 
 
 ---
