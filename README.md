@@ -1,6 +1,6 @@
 # <p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⋆༺𓆩⚔𓆪༻⋆⫘⫘⫘⫘⫘⫘⫘⫘</p>
 
-# <p align="center">~/$ whoami</p>
+# <p align="center">~/# whoami</p>
 
 cybersecurity enthusiast with a strong interest in purple teaming.
 
@@ -20,7 +20,7 @@ passionate about Linux and privacy, I advocate for open-source security solution
 
 
 ---
-# <p align="center">~/$ ls tools/</p>
+# <p align="center">~/# ls tools/</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -37,7 +37,7 @@ passionate about Linux and privacy, I advocate for open-source security solution
 
 ---
 
-# <p align="center">~/$ ./stats.sh</p>
+# <p align="center">~/# ./stats.sh</p>
 
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caesesia&theme=vision-friendly-dark"/></p>
 
