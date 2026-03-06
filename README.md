@@ -4,7 +4,7 @@
 
 cybersecurity enthusiast with a strong interest in purple teaming.
 
-currently studying cybersecurity @ecole2600, with a heavy focus on low level concepts and pentesting.
+currently enrolled in a cybersecurity expert master's degree @ ecole2600, with a heavy focus on low level concepts and pentesting.
 
 ### few things i’m into:
 
