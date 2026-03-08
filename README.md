@@ -4,19 +4,18 @@
 
 cybersecurity enthusiast with a strong interest in purple teaming.
 
-currently enrolled in a cybersecurity expert master's degree @ ecole2600, with a heavy focus on low level concepts and pentesting.
+currently enrolled in a cybersecurity expert MSc @ ecole2600, with a heavy focus on low level concepts and pentesting.
 
 ### few things i’m into:
-
+- open-source (notably Linux) and user privacy
+- CTFs & pentesting (mainly pwn, forensics, network and reverse engineering challenges)
+- scripting & automation (python, C, shell, terraform, ansible), with a growing interest in devsecops
 - blue team security (post-mortem analysis, incident response, system hardening)
 - system administration (managing and securing Linux systems, hardening configurations, managing infrastructure)
-- forensics (data recovery, analysis, and reverse engineering)
-- CTFs & pentesting (mainly pwn, forensics, network and reverse engineering challenges)
-- scripting & automation (python, shell, terraform, ansible), with a growing interest in devsecops
-- open-source (notably Linux) and user privacy
 
-i'm always looking to enhance my skills and knowledge, particularly in system security, scripting, and pentesting.
-passionate about Linux and privacy, I advocate for open-source security solutions.
+passionate about Linux and privacy, i advocate for open-source security solutions.
+
+favoured by the Goddess Herself.
 
 
 ---
