@@ -9,7 +9,7 @@ currently enrolled in a cybersecurity expert MSc @ ecole2600, with a heavy focus
 ### few things i’m into:
 - open-source (notably Linux) and user privacy
 - CTFs & pentesting (mainly pwn, forensics, network and reverse engineering challenges)
-- scripting & automation (python, C, shell, terraform, ansible), with a growing interest in devsecops
+- scripting & automation (python, c, shell, terraform, ansible), with a growing interest in devsecops
 - blue team security (post-mortem analysis, incident response, system hardening)
 - system administration (managing and securing Linux systems, hardening configurations, managing infrastructure)
 
