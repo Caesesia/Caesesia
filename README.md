@@ -42,4 +42,4 @@ favoured by the Goddess Herself.
 
 ---
 
-*VII_{!_u53_4rCh_b7w}*
+*{!_u53_4rCh_b7w}*
