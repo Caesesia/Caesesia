@@ -2,9 +2,9 @@
 
 # <p align="center">~/# whoami</p>
 
-cybersecurity enthusiast with a strong interest in purple teaming.
+cybersecurity enthusiast with a strong interest in purple teaming and devsecops.
 
-currently enrolled in a cybersecurity expert MSc @ ecole2600, with a heavy focus on low level concepts and pentesting.
+currently enrolled in a cybersecurity expert master's, with a heavy focus on low level concepts and pentesting.
 
 ### few things i’m into:
 - open-source (notably Linux) and user privacy
