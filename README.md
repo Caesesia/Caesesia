@@ -2,14 +2,14 @@
 
 # <p align="center">~/# whoami</p>
 
-cybersecurity enthusiast with a strong interest in purple teaming and devsecops.
+cybersecurity enthusiast with a strong interest in red / purple teaming and cti.
 
 currently enrolled in a cybersecurity expert master's, with a heavy focus on low level concepts and pentesting.
 
 ### few things i’m into:
 - open-source (notably Linux) and user privacy
 - CTFs & pentesting (mainly pwn, forensics, network and reverse engineering challenges)
-- scripting & automation (python, c, shell, terraform, ansible), with a growing interest in devsecops
+- scripting & automation (python, c, shell, terraform, ansible), with an interest in devsecops
 - blue team security (post-mortem analysis, incident response, system hardening)
 - system administration (managing and securing Linux systems, hardening configurations, managing infrastructure)
 
